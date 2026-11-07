@@ -1,0 +1,9 @@
+textual
+ollama
+unsloth-zoo
+datasets
+trl
+transformers
+peft
+accelerate
+bitsandbytes
